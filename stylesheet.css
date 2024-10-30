@@ -1,0 +1,96 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    justify-content: center;
+}
+
+h1, h2 {
+    font-family: Young serif;
+}
+
+*{
+    font-family: Outfit;
+}
+
+p{
+    font-size: 16px;
+}
+
+.body-container{
+    background-color: white;
+    padding: 20px;
+    border-radius: 25px;
+    width: 75vw;
+
+}
+
+.omellet{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.preparation-container{
+    background-color: hsl(332, 47%, 86%);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.preparation-container p{
+    color: hsl(332, 51%, 32%);
+    font-weight: 800;
+}
+
+.preparation-container li{
+    padding-left: 15px;
+    padding-bottom: 5px;
+    margin-left: -20px;
+}
+
+h2{
+    color: hsl(14, 45%, 36%);
+}
+
+.list-ingredient li{
+    padding-left: 15px;
+    margin-left: -20px;
+}
+
+.span-instruction, .span-preparation{
+    font-weight: 600;
+}
+
+.list-instruction li::marker{
+    color: hsl(14, 45%, 36%);
+}
+
+.list-instruction li{
+    padding-left: 15px;
+    margin-left: -20px;
+    padding: 6px;
+}
+
+.nutrition-container1, 
+.nutrition-container2, 
+.nutrition-container3, 
+.nutrition-container4 {
+    display: flex;
+    justify-content: space-between; /* Aligns text horizontally with space between */
+    width: 75%;
+    padding: 10px;
+    text-align: left;
+    align-items: center; /* Ensures vertical alignment */
+}
+
+.nutrition-container1 span, 
+.nutrition-container2 span, 
+.nutrition-container3 span, 
+.nutrition-container4 span{
+    text-align: left;
+}
+
+
+.span-number {
+    text-align: right; /* Ensures that the values (like 277kcal) are aligned to the right */
+    font-weight: 800;
+    color: hsl(14, 45%, 36%);
+}
