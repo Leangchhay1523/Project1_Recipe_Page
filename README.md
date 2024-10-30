@@ -2,7 +2,7 @@
 This is my first small project about **Recipe Page** that is challenged by [Frontend Mentor](https://www.frontendmentor.io). This project do not have responsive as it is my first one, I will try to make a reposive one in the future.
 
 ## Demo
-Visit Here: <a href="https://leangchhay1523.github.io/Recipe_Page_Project1/" target="_blank">Link</a><br>
+Visit Here: <a href="https://leangchhay1523.github.io/Project1_Recipe_Page/" target="_blank">Link</a><br>
 <img src="Images/Demo.png" alt="Demo Result" width="250px" height="600px">
 
 ## Technology Used
